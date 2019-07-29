@@ -39,7 +39,7 @@ Haskell file using this quasiquoter.
 "Hello"
 ```
 
-``haskell
+```haskell
 >> putStrLn "Hello, world!"
 Hello, world!
 ```
