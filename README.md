@@ -44,7 +44,7 @@ Haskell file using this quasiquoter.
 Hello, world!
 ```
 
-``haskell
+```haskell
 >> print 1
 >> print 2
 >> print 3
