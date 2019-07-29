@@ -53,7 +53,7 @@ Hello, world!
 3
 ```
 
-<details>
+<details><summary></summary>
 ```haskell
 |]
 ```
