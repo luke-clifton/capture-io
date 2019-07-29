@@ -54,7 +54,9 @@ Hello, world!
 ```
 
 <details><summary></summary>
+  
 ```haskell
 |]
 ```
+
 </details>
